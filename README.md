@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **automation testing using Selenium with Java and API testing using REST-assured with Cucumber BDD.**
 
-- 👩‍💻I have experience with the languages and concepts  **Java, JavaScript, Python, SQL, C and OOP concepts.**
+- 👩‍💻I have experience with the languages and concepts :  **Java, JavaScript, Python, SQL, C and OOP concepts.**
 
 - 📫 How to reach me **remya240@gmail.com**
 
