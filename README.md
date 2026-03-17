@@ -5,265 +5,109 @@
 <!-- HEADER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=200&section=header&text=remya240&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=SDET%20%7C%20QA%20Automation%20tester&descAlignY=55&descSize=20" width="100%"/>
 
-<!-- TYPING ANIMATION -->
-
-
-<!-- PROFILE BADGES -->
 <p>
-  <img src="https://img.shields.io/badge/Focus-SDET-70a5fd?style=for-the-badge" alt="focus"/>
-  <img src="https://img.shields.io/badge/3+_Years-On_GitHub-70a5fd?style=for-the-badge" alt="years"/>
-  
-  <img src="https://komarev.com/ghpvc/?username=remya240&style=for-the-badge&color=70a5fd" alt="views"/>
+  <img src="https://img.shields.io/badge/Focus-SDET-70a5fd?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/3+_Years-On_GitHub-70a5fd?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=remya240&style=for-the-badge&color=70a5fd"/>
 </p>
 
-<!-- SOCIAL LINKS -->
 <p>
-<a href="https://www.linkedin.com/in/remya-kakkattu-bb8b1b249/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
+<a href="https://www.linkedin.com/in/remya-kakkattu-bb8b1b249/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a> 
 </p>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Technologist" width="30" height="30" /> About Me
+## 👨‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remya240&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320" alt="Top Languages"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remya240&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="320"/>
 
-
-
-💼 **5**
-
-🔭 Currently working on **[Selenium-Java-Framework_OrangeHRMProject](https://github.com/remya240/Selenium-Java-Framework_OrangeHRMProject)**
-
-🌱 Currently learning **AI**
-
-
-
-
-📦 **6** repositories
+💼 **5 Years Experience**  
+🔭 Working on **Selenium Automation Framework**  
+🌱 Learning **AI**  
+📦 **6 repositories**
 
 <br clear="right"/>
 
-
-### 🤝 Open For
-
-<p>
-<img src="https://img.shields.io/badge/💼_Hiring-Open-success?style=for-the-badge" alt="Hiring"/>
-
-
-
-
-</p>
-
-
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" /> GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=remya240&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=ffffff&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remya240&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=ffffff&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=remya240&theme=tokyonight&hide_border=true&background=0d1117&stroke=70a5fd&ring=70a5fd&fire=ff6b6b&currStreakLabel=70a5fd" alt="GitHub Streak"/>
-</div>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=remya240&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophy"/>
-</div>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="30" height="30" /> Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-<h3 align="center">🧪 Testing & QA</h3>
-<br/>
-<div align="center">
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="playwright"/>
-<img src="https://img.shields.io/badge/WebdriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white" alt="webdriverio"/>
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="junit"/>
-<img src="https://img.shields.io/badge/TestNG-FF7300?style=for-the-badge&logo=testng&logoColor=white" alt="testng"/>
-<img src="https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest"/>
-<img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" alt="cucumber"/>
-<img src="https://img.shields.io/badge/REST_Assured-4CAF50?style=for-the-badge&logo=java&logoColor=white" alt="restassured"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-<img src="https://img.shields.io/badge/Allure-FF6600?style=for-the-badge&logo=qameta&logoColor=white" alt="allure"/>
-<img src="https://img.shields.io/badge/ExtentReports-00897B?style=for-the-badge&logo=extent&logoColor=white" alt="extentreports"/>
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-<h3 align="center">💻 Development</h3>
-<br/>
-<div align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-<h3 align="center">⚙️ DevOps & Tools</h3>
-<br/>
-<div align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/>
-</div>
-
-</td>
-</tr>
-</table>
-
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="30" height="30" /> Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/remya240/Selenium-Java-Framework_OrangeHRMProject"><img src="https://github-readme-stats.vercel.app/api/pin/?username=remya240&repo=Selenium-Java-Framework_OrangeHRMProject&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Selenium-Java-Framework_OrangeHRMProject"/></a>
-<a href="https://github.com/remya240/JavaOOPs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=remya240&repo=JavaOOPs&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="JavaOOPs"/></a>
-<a href="https://github.com/remya240/remya240"><img src="https://github-readme-stats.vercel.app/api/pin/?username=remya240&repo=remya240&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="remya240"/></a>
-<a href="https://github.com/remya240/Pythonbasics"><img src="https://github-readme-stats.vercel.app/api/pin/?username=remya240&repo=Pythonbasics&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="Pythonbasics"/></a>
-<a href="https://github.com/remya240/APITesting_UserModule"><img src="https://github-readme-stats.vercel.app/api/pin/?username=remya240&repo=APITesting_UserModule&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="APITesting_UserModule"/></a>
-<a href="https://github.com/remya240/ScrapingTest"><img src="https://github-readme-stats.vercel.app/api/pin/?username=remya240&repo=ScrapingTest&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=70a5fd&text_color=c9d1d9" alt="ScrapingTest"/></a>
-
-</div>
-
-### 📊 Top Repositories
-
-<table>
-<thead>
-<tr>
-<th>🚀 Project</th>
-<th>📝 Description</th>
-<th>⭐ Stars</th>
-<th>🍴 Forks</th>
-<th>💻 Language</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://github.com/remya240/Selenium-Java-Framework_OrangeHRMProject"><b>Selenium-Java-Framework_OrangeHRMProject</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/HTML-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/remya240/JavaOOPs"><b>JavaOOPs</b></a></td>
-<td>JavaOOPs</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/remya240/remya240"><b>remya240</b></a></td>
-<td>Github profile README</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/1-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/remya240/Pythonbasics"><b>Pythonbasics</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/N%2FA-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/remya240/APITesting_UserModule"><b>APITesting_UserModule</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
-</tr>
-<tr>
-<td><a href="https://github.com/remya240/ScrapingTest"><b>ScrapingTest</b></a></td>
-<td>No description</td>
-<td><img src="https://img.shields.io/badge/0-gold?style=flat-square&logo=star" alt="stars"/></td>
-<td><img src="https://img.shields.io/badge/0-blue?style=flat-square&logo=git" alt="forks"/></td>
-<td><img src="https://img.shields.io/badge/Java-gray?style=flat-square" alt="language"/></td>
-</tr>
-</tbody>
-</table>
+## 🤝 Open For
 
 <p align="center">
-  <i>💡 Total of <b>6</b> repositories — <b>1</b> forks</i>
+<img src="https://img.shields.io/badge/💼_Hiring-Open-success?style=for-the-badge"/>
 </p>
 
+---
+
+## 🔥 GitHub Analytics
+
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=remya240&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remya240&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
 
 ---
 
+## 🛠 Tech Stack
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" /> Achievements
+- Selenium, Playwright, TestNG, PyTest  
+- Java, Python, JavaScript  
+- Jenkins, Git  
+
+---
+
+## ⭐ Featured Projects
+
+- Selenium Framework  
+- API Testing  
+- Java OOP  
+
+---
+
+## 🏆 Achievements
+
+- ✅ 3+ Years on GitHub  
+- ✅ Java Expert  
+
+---
+
+## 📜 Certifications
 
 <div align="center">
 
-| 🏆 Achievement | 📊 Status |
-|:-------------:|:---------:|
-| 📅 3+ Years on GitHub | ✅ Unlocked |
-| 💻 Java Expert | ✅ Unlocked |
+<a href="https://github.com/remya240/remya240/blob/main/remya-certificate.png">
+  <img src="https://raw.githubusercontent.com/remya240/remya240/main/remya-certificate.png" width="400"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📜_Certified-70a5fd?style=for-the-badge"/>
 
 </div>
 
 ---
 
+## 🚀 Profile Summary
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Profile Summary
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-<img src="https://img.shields.io/badge/🍴_Total_Forks-1-blue?style=for-the-badge" alt="Forks"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/📦_Repositories-6-green?style=for-the-badge" alt="Repos"/>
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/badge/📅_Years_Active-3+-orange?style=for-the-badge" alt="Years"/>
-</td>
-</tr>
-</table>
-
-</div>
+- 🍴 Forks: 1  
+- 📦 Repositories: 6  
+- 📅 Years Active: 3+  
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" height="30" /> Let's Connect!
+## 🤝 Let's Connect!
 
-<div align="center">
-
-**I'm always interested in collaborating on exciting projects!**
-
-<a href="https://www.linkedin.com/in/remya-kakkattu-bb8b1b249/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> 
-
-📫 **Reach out** — I'd love to hear from you!
-
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/remya-kakkattu-bb8b1b249/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer" width="100%"/>
-
-**⭐ From [remya240](https://github.com/remya240) with ❤️**
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:70a5fd,100:0d1117&height=120&section=footer"/>
 </div>
