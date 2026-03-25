@@ -27,7 +27,6 @@
 
 💼 **5 Years Experience**  
 🔭 Working on **Selenium Automation Framework**  
-🌱 Learning **AI**  
 📦 **6 repositories**
 
 <br clear="right"/>
