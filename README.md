@@ -74,20 +74,6 @@
 
 ---
 
-## 📜 Certifications
-<div align="center">
-
-<a href="https://github.com/remya240/remya240/blob/main/remya-kakkattu-API_hackathon_certificate.png">
-  <img src="https://raw.githubusercontent.com/remya240/remya240/main/emya-kakkattu-API_hackathon_certificate.png" width="400"/>
-</a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/📜_Certified-70a5fd?style=for-the-badge"/>
-
-</div>
----
-
 ## 🚀 Profile Summary
 
 - 🍴 Forks: 1  
