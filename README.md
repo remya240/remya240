@@ -76,10 +76,10 @@
 
 ## 🚀 Profile Summary
 
-- 🍴 Forks: 1  
-- 📦 Repositories: 6  
-- 📅 Years Active: 3+  
-
+- 🍴 **Forks:** 1  
+- 📦 **Repositories:** 18  
+- 📅 **Years Active:** 3+  
+- 🛠️ **Main Focus:** QA Automation & Selenium Testing
 ---
 
 ## 🤝 Let's Connect!
