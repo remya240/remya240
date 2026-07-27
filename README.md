@@ -64,6 +64,15 @@
 - Java OOP  
 
 ---
+## 🧪 Test Automation Projects
+
+- [Selenium Java Framework - OrangeHRM Project](https://github.com/remya240/Selenium-Java-Framework_OrangeHRMProject)
+
+- [Scraping Test](https://github.com/remya240/ScrapingTest)
+
+- [API REST Assured](https://github.com/remya240/API_REST_ASSURED)
+
+- [LMS Selenium Cucumber](https://github.com/remya240/LMS-Selenium-Cucumber)
 
 ## 🏆 Achievements
 
