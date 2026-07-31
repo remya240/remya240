@@ -26,7 +26,6 @@
 
 💼 QA Automation Engineer | 4+ Years Experience  
 🔭 Developing Selenium, Cucumber BDD & API Automation Frameworks  
-📦 20 Repositories (Public & Private)  
 🌱 Exploring Java, Python, REST API Testing, Appium & CI/CD Integration  
 
 <br clear="right"/>
