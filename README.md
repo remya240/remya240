@@ -73,6 +73,8 @@
 - [API REST Assured](https://github.com/remya240/API_REST_ASSURED)
 
 - [LMS Selenium Cucumber](https://github.com/remya240/LMS-Selenium-Cucumber)
+  
+- [Appium Project](https://github.com/remya240/Appium_Automation)
 
 ## 🏆 Achievements
 
