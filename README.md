@@ -24,9 +24,10 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=remya240&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8&count_private=true" width="320"/>
 
-💼 **5 Years Experience** in QA Automation  
-🔭 Currently building **Selenium & Cucumber Frameworks** 📦 **18 Repositories** (Public & Private)  
-🌱 Continuous Learner in **Java, Python, and API Testing**
+💼 QA Automation Engineer | 4+ Years Experience  
+🔭 Developing Selenium, Cucumber BDD & API Automation Frameworks  
+📦 20 Repositories (Public & Private)  
+🌱 Exploring Java, Python, REST API Testing, Appium & CI/CD Integration  
 
 <br clear="right"/>
 
