@@ -75,6 +75,8 @@
 - [LMS Selenium Cucumber](https://github.com/remya240/LMS-Selenium-Cucumber)
   
 - [Appium Project](https://github.com/remya240/Appium_Automation)
+  - - BrowserStack Execution Report:
+  [View Test Execution Report](https://app-automate.browserstack.com/projects/SkyTube+Automation/builds/SkyTube_Build/3?testListView=spec)
 
 ## 🏆 Achievements
 
