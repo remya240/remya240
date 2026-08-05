@@ -77,6 +77,7 @@
 - [Appium Project](https://github.com/remya240/Appium_Automation)
   - BrowserStack Execution Report:  
     [View Test Execution Report](https://app-automate.browserstack.com/projects/SkyTube+Automation/builds/SkyTube_Build/3?testListView=spec)
+- [Playwright JavaScript Learning](https://github.com/remya240/Playwright-JavaScript-Learning)
 
 ## 🏆 Achievements
 
