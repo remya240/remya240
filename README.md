@@ -78,6 +78,7 @@
   - BrowserStack Execution Report:  
     [View Test Execution Report](https://app-automate.browserstack.com/projects/SkyTube+Automation/builds/SkyTube_Build/3?testListView=spec)
 - [Playwright JavaScript Learning](https://github.com/remya240/Playwright-JavaScript-Learning)
+  - 📖 [My First Playwright Project — What I Learned Setting Up Playwright in VS Code](https://medium.com/@remya240/how-to-install-playwright-and-set-up-your-first-test-automation-project-de3e1baab59b?sharedUserId=remya240)
 
 ## 🏆 Achievements
 
